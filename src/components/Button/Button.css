@@ -1,0 +1,25 @@
+.button{
+    font-size: 1.2em;
+    padding: 15px;
+    border: none;
+    border-radius: 35px;
+    cursor: pointer;
+    transition:background-color 0,2s ease;
+    color: #FFFFFF;
+}
+.button:hover {
+    opacity: 0.8;
+}
+
+.clear {background-color: #f44336;}
+
+.operator{ background-color:#ff9800;}
+
+.equal{
+    grid-column: span 2;
+    background-color: #4caf50;
+}
+
+.button:not(.clear):not(.operator):not(.equal){
+    background-color: #444444;
+}
