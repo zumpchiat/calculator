@@ -4,6 +4,8 @@ Uma calculadora interativa e responsiva construída com **React**, utilizando a 
 
 ---
 
+![imagem](image-1.png)
+
 ## 🚀 Funcionalidades
 
 * **Cálculos Dinâmicos:** Suporte para operações aritméticas básicas (+, -, *, /).
